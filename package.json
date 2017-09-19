@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "conventional-changelog": "^1.1.5"
+  },
   "devDependencies": {
     "semantic-release": "^8.0.0"
   },
